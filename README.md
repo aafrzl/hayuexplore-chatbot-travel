@@ -1,7 +1,9 @@
-# Hayu Explore Chatbot Travel
+<a href="https://hayuexplore-chatbot-travel.vercel.app/">
+  <img alt="Next.js 13 and app template Router-ready AI chatbot." src="https://i.ibb.co/nsgF08z/desktop-dark.png">
+  <h1>Hayu Explore Chatbot Travel</h1>
+</a>
 
-Hayu Explore adalah chatbot yang dapat membantu kamu dalam merencanakan perjalanan wisata kamu saat ke Bandung. Kamu dapat menanyakan informasi mengenai tempat wisata yang ada di Bandung. Dibuat dengan menggunakan framework [Next.js](https://nextjs.org) dan [shadcn/ui](https://ui.shadcn.com) sebagai komponen UI nya. Aplikasi ini dibuat untuk mengikuti coding challenge dari [SMKDEV](https://smk.dev) yaitu "SMKDEV Coding Challenge: Travel Chatbot API".
-
+Hayu Explore adalah chatbot yang dapat membantu kamu dalam merencanakan perjalanan wisata kamu saat ke Bandung. Kamu dapat menanyakan informasi mengenai tempat wisata yang ada di Bandung. Dibuat dengan menggunakan framework [Next.js](https://nextjs.org) dan   [shadcn/ui](https://ui.shadcn.com) sebagai komponen UI nya. Aplikasi ini dibuat untuk mengikuti coding challenge dari [SMKDEV](https://smk.dev) yaitu "SMKDEV Coding Challenge: Travel Chatbot API".
 ## Tech Stack
 
 - [Next.js](https://nextjs.org) App Router
@@ -31,5 +33,5 @@ Dan buka [http://localhost:3000](http://localhost:3000) di browser kamu.
 - [@aafrzl](https://www.github.com/aafrzl)
 ## Feedback
 
-Jika kamu memiliki pertanyaan atau saran, silahkan buat [issue](https://github/aafrzl/hayu-explore-chatbot-travel/issues) baru atau hubungi saya di [Instagram](https://www.instagram.com/aafrzl/).
+Jika kamu memiliki pertanyaan atau saran, silahkan buat [issue](https://github.com/aafrzl/hayuexplore-chatbot-travel/issues) baru atau hubungi saya di [Instagram](https://www.instagram.com/aafrzl/).
 
